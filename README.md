@@ -12,13 +12,13 @@ I am Community Moderator, Node Operator, Ambassador and Testnet Hunter for Block
 </p>
 
 ## Current Projects
-- [Banksea Finance](https://banksea.finance) ━ The First AI-Driven NFT Oracle &
+- [Banksea Finance](https://banksea.finance) target="_blank" ━ The First AI-Driven NFT Oracle &
 NFT Liquidity Infrastructure
 - [Hedge](https://hedge.so) ━ 0% Interest Liquidity on Solana
 - [Scallop.io](https://scallop.io) ━ A no loss lottery on Solana, stake to win tokens and NFTs✨
-- [Upasian](https://upasian.org) ━ Your Blockchain Startup Community Partner
+- [Upasian](https://upasian.org) ━ A Community-based Moderator and Ambassador service
 - some other small project that are not important enough to mention
 
 
 ![Mugiwara's github stats](https://github-readme-stats.vercel.app/api?username=superadit98&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
-![](https://komarev.com/ghpvc/?username=superadit98&label=Visitors+Count&color=000)
+![](https://komarev.com/ghpvc/?username=superadit98&label=Visitors+Count&color=black)
