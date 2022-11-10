@@ -16,7 +16,7 @@ NFT Liquidity Infrastructure
 - [Hedge](https://hedge.so) ━ 0% Interest Liquidity on Solana
 - [Scallop.io](https://scallop.io) ━ A no loss lottery on Solana, stake to win tokens and NFTs✨
 - [Upasian](https://upasian.org) ━ Your Blockchain Startup Community Partner
-- some other small project that are not important enought to mention
+- some other small project that are not important enough to mention
 
-## Mugiwara's github stats
-![](https://github-readme-stats.vercel.app/api?username=superadit98&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+
+![Mugiwara's github stats](https://github-readme-stats.vercel.app/api?username=superadit98&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
