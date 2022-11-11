@@ -14,6 +14,7 @@ I am Community Moderator, Node Operator, Ambassador and Testnet Hunter for Block
 ## Current Projects
 - [Banksea Finance](https://banksea.finance) ━ The First AI-Driven NFT Oracle &
 NFT Liquidity Infrastructure
+- [Masa Finance](https://masa.finance) ━ A web3 soulbound identity that unlocks access to decentralized credit and financial products globally.
 - [Hedge](https://hedge.so) ━ 0% Interest Liquidity on Solana
 - [Scallop.io](https://scallop.io) ━ A no loss lottery on Solana, stake to win tokens and NFTs✨
 - [Upasian](https://upasian.org) ━ A Community-based Moderator and Ambassador service
