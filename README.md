@@ -19,7 +19,7 @@ NFT Liquidity Infrastructure
 - [Upasian](https://upasian.org) ━ A Community-based Moderator and Ambassador service
 
 
-## Last Projects
+## Ex Projects
 - [Scallop.io](https://scallop.io) ━ A no loss lottery on Solana, stake to win tokens and NFTs✨
 - some other small project that are not important enough to mention
 
