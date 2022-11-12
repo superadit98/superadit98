@@ -16,10 +16,12 @@ I am Community Moderator, Node Operator, Ambassador and Testnet Hunter for Block
 NFT Liquidity Infrastructure
 - [Masa Finance](https://masa.finance) ━ A web3 soulbound identity that unlocks access to decentralized credit and financial products globally.
 - [Hedge](https://hedge.so) ━ 0% Interest Liquidity on Solana
-- [Scallop.io](https://scallop.io) ━ A no loss lottery on Solana, stake to win tokens and NFTs✨
 - [Upasian](https://upasian.org) ━ A Community-based Moderator and Ambassador service
-- some other small project that are not important enough to mention
 
+
+## Last Projects
+- [Scallop.io](https://scallop.io) ━ A no loss lottery on Solana, stake to win tokens and NFTs✨
+- some other small project that are not important enough to mention
 
 ![Mugiwara's github stats](https://github-readme-stats.vercel.app/api?username=superadit98&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![](https://komarev.com/ghpvc/?username=superadit98&label=Visitors+Count&color=brightgreen)
