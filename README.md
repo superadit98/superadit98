@@ -4,13 +4,6 @@
 
 I am a Community Moderator, Colllab/Partnership Manager, Node Runner, Ambassador and Testnet Bounty Hunter for Blockchain project. feel free to give me a shout out [@Mugiwara](https://twitter.com/themugiwara0x/) in case you need something from me. Cheers!
 
-<p align='center'>
-<a href="https://twitter.com/themugiwara0x" target="_blank"><img height="30" src="https://github.com/superadit98/superadit98/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/gibrank_/" target="_blank"><img height="30" src="https://github.com/superadit98/superadit98/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:adityawijo.k@gmail.com" target="_blank"><img height="30" src="https://github.com/superadit98/superadit98/blob/main/mail.png?raw=true"></a>
-<a href="https://upasian.org" target="_blank"><img height="30" src="https://github.com/superadit98/superadit98/blob/main/blog.png?raw=true"></a>
-</p>
-
 ## Current Projects
 - [Banksea Finance](https://banksea.finance) ━ The First AI-Driven NFT Oracle &
 NFT Liquidity Infrastructure
