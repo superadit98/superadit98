@@ -2,7 +2,11 @@
 
 
 
-I am a Community Moderator, Colllab/Partnership Manager, Node Runner, Ambassador and Testnet Bounty Hunter for Blockchain project. feel free to give me a shout out [@Mugiwara](https://twitter.com/themugiwara0x/) in case you need something from me. Cheers!
+My name is Mugiwara. i have been working as Community Moderator on several project that mostly solana, over the time i have a lot of connection and great experience.
+
+What can i do?
+1). Collab and partnership with other project
+2). Answer community question on discord and telegram.
 
 ## Current Projects
 - [Banksea Finance](https://banksea.finance) ━ The First AI-Driven NFT Oracle &
