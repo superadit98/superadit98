@@ -5,8 +5,9 @@
 My name is Mugiwara. i have been working as Community Moderator on several project that mostly solana, over the time i have a lot of connection and great experience.
 
 What can i do?
-1). Collab and partnership with other project
-2). Answer community question on discord and telegram.
+- 1). Collab and partnership with other project
+- 2). Answer community question on discord and telegram.
+- 3). Manage and answer community problems on ticket channel
 
 ## Current Projects
 - [Banksea Finance](https://banksea.finance) ━ The First AI-Driven NFT Oracle &
