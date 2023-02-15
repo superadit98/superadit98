@@ -6,7 +6,7 @@ My name is Mugiwara. i have been working as Community Moderator on several proje
 
 What can i do?
 - 1). Assist in collaboration and partnership efforts by identifying potential partners, and helping to establish and maintain relationships with them.
-- 2). Serve as a liaison between the community and the organization by promptly responding to inquiries and addressing concerns on Discord and Telegram channels.
+- 2). Serve as a liaison between the community and the project by promptly responding to inquiries and addressing concerns on Discord and Telegram channels.
 - 3). Effectively manage and resolve community issues by providing timely and accurate responses to tickets, escalating issues as appropriate, and keeping the community informed on the status of the problem.
 
 ## Current Projects
