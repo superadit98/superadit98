@@ -14,7 +14,7 @@ What can i do?
 NFT Liquidity Infrastructure
 - [Masa Finance](https://masa.finance) ━ A web3 soulbound identity that unlocks access to decentralized credit and financial products globally.
 - [Hedge](https://hedge.so) ━ 0% Interest Liquidity on Solana
-- [Upasian](https://upasian.org) ━ A Community-based Moderator and Ambassador service
+
 
 
 ## Ex Projects
