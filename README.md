@@ -2,12 +2,12 @@
 
 
 
-My name is Mugiwara. i have been working as Community Moderator on several project that mostly solana, over the time i have a lot of connection and great experience.
+My name is Mugiwara. i have been working as Community Moderator on several project that mostly solana, over the time i have a lot of connection and great experience.  I am always looking to take on new challenges and apply my skills to make a positive impact in the Community. I am excited to join a team and contribute my skills to achieve the project's goals and aspirations.
 
 What can i do?
-- 1). Collab and partnership with other project
-- 2). Answer community question on discord and telegram.
-- 3). Manage and answer community problems on ticket channel
+- 1). Assist in collaboration and partnership efforts by identifying potential partners, and helping to establish and maintain relationships with them.
+- 2). Serve as a liaison between the community and the organization by promptly responding to inquiries and addressing concerns on Discord and Telegram channels.
+- 3). Effectively manage and resolve community issues by providing timely and accurate responses to tickets, escalating issues as appropriate, and keeping the community informed on the status of the problem.
 
 ## Current Projects
 - [Banksea Finance](https://banksea.finance) ━ The First AI-Driven NFT Oracle &
