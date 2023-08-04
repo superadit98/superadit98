@@ -14,6 +14,7 @@ What can i do?
 NFT Liquidity Infrastructure
 - [Masa Finance](https://masa.finance) ━ A web3 soulbound identity that unlocks access to decentralized credit and financial products globally.
 - [Hedge](https://hedge.so) ━ 0% Interest Liquidity on Solana
+- [Kakarot zkEVM](https://kakarot.org) ━ Bring Ethereum to the Starknet ecosystem
 
 
 
