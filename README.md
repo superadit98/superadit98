@@ -11,15 +11,15 @@ What can i do?
   
 
 ## Current Projects
-- [Dymension](https://dymension.xyz) ━ Dymension is a home for easily deployable and lightning fast app-chains, called RollApps.
 - [Avail](https://www.availproject.org) ━ The essential base layer for modern blockchains.
 - [Masa Finance](https://masa.finance) ━ A web3 soulbound identity that unlocks access to decentralized credit and financial products globally.
-- [Hedge](https://hedge.so) ━ 0% Interest Liquidity on Solana
 - [Kakarot zkEVM](https://kakarot.org) ━ Bring Ethereum to the Starknet ecosystem
 
 
 
 ## Ex Projects
+- [Dymension](https://dymension.xyz) ━ Dymension is a home for easily deployable and lightning fast app-chains, called RollApps.
+- [Hedge](https://hedge.so) ━ 0% Interest Liquidity on Solana
 - [Scallop.io](https://scallop.io) ━ A no loss lottery on Solana, stake to win tokens and NFTs✨
 - [Banksea Finance](https://banksea.finance) ━ The First AI-Driven NFT Oracle &
 NFT Liquidity Infrastructure
