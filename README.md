@@ -2,7 +2,7 @@
 
 
 
-My name is Mugiwara. i have been working as Community Moderator on several project and blockchains, such as solana, ethereum and IBC. I'm also a node runner. over the time i have a lot of connection and great experience.  I am always looking to take on new challenges and apply my skills to make a positive impact in the Community. I am excited to join a team and contribute my skills to achieve the project's goals and aspirations.
+My name is Gibran Radit. I live in Yogyakarta, Indonesia. I have been in crypto space since 2017, ethereum was the first coin I bought and have been in this space ever since. I have been working as Community Moderator on several project and blockchains, such as solana, ethereum, sui and Cosmos. Besides being a Community moderator, I'm also a node runner, validator runner and testnet bounty hunter. Over the time i have a lot of connection and great experience.  I am always looking to take on new challenges and apply my skills to make a positive impact in the Community. I am excited to join a team and contribute my skills to achieve the project's goals and aspirations.
 
 What can i do?
 - 1). Assist in collaboration and partnership efforts by identifying potential partners, and helping to establish and maintain relationships with them.
@@ -25,5 +25,5 @@ What can i do?
 NFT Liquidity Infrastructure
 - some other small project that are not important enough to mention
 
-![Mugiwara's github stats](https://github-readme-stats.vercel.app/api?username=superadit98&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Gibran's github stats](https://github-readme-stats.vercel.app/api?username=superadit98&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![](https://komarev.com/ghpvc/?username=superadit98&label=Visitors+Count&color=brightgreen)
