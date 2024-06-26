@@ -2,7 +2,7 @@
 
 
 
-My name is Gibran Radit. I live in Yogyakarta, Indonesia. I have been in crypto space since 2017, ethereum was the first coin I bought and have been in the space ever since. I have been working as Community Moderator on several project and blockchains, such as solana, ethereum, sui and Cosmos. Besides being a Community moderator, I'm also a node runner, validator and Testnet bounty hunter. Over the time i have a lot of connection and great experience.  I am always looking to take on new challenges and apply my skills to make a positive impact in the Community. I am excited to join a team and contribute my skills to achieve the project's goals and aspirations.
+My name is Gibran Radit. I live in Yogyakarta, Indonesia. I have been in crypto space since 2017, Ethereum was the first blockchain project I was involved in and been in the space ever since. I have been working as Community Moderator on several project and blockchains, such as solana, ethereum, sui and Cosmos. Besides being a Community moderator, I'm also a node runner, validator and Testnet bounty hunter. Over the time i have a lot of connection and great experience.  I am always looking to take on new challenges and apply my skills to make a positive impact in the Community. I am excited to join a team and contribute my skills to achieve the project's goals and aspirations.
 
 What can i do?
 - 1). Assist in collaboration and partnership efforts by identifying potential partners, and helping to establish and maintain relationships with them.
